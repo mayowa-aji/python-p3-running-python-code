@@ -1,1 +1,3 @@
-print("Hello World! Pass this test, please.")
+print("Hello World!", end=" ")
+print("Pass this test, please.", end="\n")
+
